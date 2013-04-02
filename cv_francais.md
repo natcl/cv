@@ -4,15 +4,17 @@
 
 ## Compétences
 
-### Administration système
+### Administration système et support informatique
 - Installation et entretien de serveurs Linux, Windows et Mac
 - Gestion de serveurs d'autentifcation avec ActiveDirectory, LDAP
 - Gestion de serveurs web avec Apache, PHP, Python, MySQL, Wordpress
 - Gestion de serveurs de stockage en Samba, NFS, RAID
+- Scripting et automatisation en Bash, Python, SSH
 
 ### Installations interactives
 - Fabrication et programmation de tables interactives
 - Fabrication de lampes interactives multicolores
+- Conception de systèmes en domotique sur mesure
 - Programmation audio et vidéo sous Max/MSP/Jitter
 - Programmation de librairies audiovisuelles en Python
 - Mapping de projections vidéos avec MadMapper
