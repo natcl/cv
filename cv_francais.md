@@ -28,20 +28,20 @@
 
 ## Expériences
 
-### Responsable informatique
-Laboratoire international de recherche sur le Cerveau, la Musique et le Son, Université de Montréal  
+### Responsable informatique  
+*Laboratoire international de recherche sur le Cerveau, la Musique et le Son, Université de Montréal*  
 2008 - ajd.
 
-### Responsable de laboratoire informatique et analyste multimédia
-Faculté de musique, Université de Montréal  
+### Responsable de laboratoire informatique et analyste multimédia  
+*Faculté de musique, Université de Montréal*   
 2010 - 2012
 
-### Responsable et planificateur des achats, projet FCI iACT
+### Responsable et planificateur des achats, projet FCI iACT  
 *Faculté de musique, Université de Montréal*  
 2007 - 2008
 
-### Responsable du matériel audiovisuel et du parc informatique
-Espace La Fontaine  
+### Responsable du matériel audiovisuel et du parc informatique  
+*Espace La Fontaine*  
 2011 - ajd.
 
 ## Formation
