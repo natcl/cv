@@ -37,7 +37,7 @@ Faculté de musique, Université de Montréal
 2010 - 2012
 
 ### Responsable et planificateur des achats, projet FCI iACT
-Faculté de musique, Université de Montréal  
+*Faculté de musique, Université de Montréal*  
 2007 - 2008
 
 ### Responsable du matériel audiovisuel et du parc informatique
