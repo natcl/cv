@@ -2,7 +2,7 @@
 
 ## Sommaire
 
-## Champs de compétences
+## Compétences
 
 ### Administration système
 - Installation et entretien de serveurs Linux, Windows et Mac
@@ -14,7 +14,7 @@
 - Fabrication et programmation de tables interactives
 - Fabrication de lampes interactives multicolores
 - Programmation audio et vidéo sous Max/MSP/Jitter
-- Mapping vidéo de projections avec MadMapper
+- Mapping de projections vidéos avec MadMapper
 - Fabrication de kiosques interactifs avec capteurs et Arduino
 - Intégration de différents protocoles: MIDI, OSC, DMX, RS-232
 
@@ -26,7 +26,7 @@
 
 ### Gestion
 
-## Chronologie des expériences
+## Expériences
 
 ### Responsable informatique
 Laboratoire international de recherche sur le Cerveau, la Musique et le Son, Université de Montréal  
