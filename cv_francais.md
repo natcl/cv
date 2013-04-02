@@ -14,6 +14,7 @@
 - Fabrication et programmation de tables interactives
 - Fabrication de lampes interactives multicolores
 - Programmation audio et vidéo sous Max/MSP/Jitter
+- Programmation de librairies audiovisuelles en Python
 - Mapping de projections vidéos avec MadMapper
 - Fabrication de kiosques interactifs avec capteurs et Arduino
 - Intégration de différents protocoles: MIDI, OSC, DMX, RS-232
@@ -25,6 +26,9 @@
 - Montage de maquettes audio/midi sous Ableton Live
 
 ### Gestion
+- Planification des achats pour des projets majeurs (3 million de dollars)
+- Élaboration des appels d'offre
+- Création et gestion de base de données d'équipement
 
 ## Expériences
 
