@@ -5,8 +5,17 @@
 ## Champs de compétences
 
 ### Administration système
+- Installation et entretien de serveurs Linux, Windows et Mac
+- Gestion de serveurs d'autentifcation avec ActiveDirectory, LDAP
+- Gestion de serveurs web avec Apache, PHP, Python, MySQL
+- Gestion de serveurs de stockage en Samba, NFS, RAID
 
 ### Installations interactives
+- Fabrication et programmation de tables interactives
+- Fabrication de lampes interactives multicolores
+- Programmation audio et vidéo sous Max/MSP/Jitter
+- Mapping vidéo de projections avec MadMapper
+- Fabrication de kiosques interactifs avec capteurs et Arduino
 
 ### Gestion
 
