@@ -12,7 +12,7 @@
 - Programmation de librairies audiovisuelles en Python
 - Mapping de projections vidéos avec MadMapper
 - Fabrication de kiosques interactifs avec capteurs et Arduino
-- Intégration de différents protocoles: MIDI, OSC, DMX, RS-232
+- Intégration de différents protocoles: MIDI, OSC, TUIO, DMX, RS-232
 
 ### Administration système et support informatique
 - Installation et entretien de serveurs Linux, Windows et Mac
