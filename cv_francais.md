@@ -4,13 +4,6 @@
 
 ## Compétences
 
-### Administration système et support informatique
-- Installation et entretien de serveurs Linux, Windows et Mac
-- Gestion de serveurs d'autentifcation avec ActiveDirectory, LDAP
-- Gestion de serveurs web avec Apache, PHP, Python, MySQL, Wordpress
-- Gestion de serveurs de stockage en Samba, NFS, RAID
-- Scripting et automatisation en Bash, Python, SSH
-
 ### Installations interactives
 - Fabrication et programmation de tables interactives
 - Fabrication de lampes interactives multicolores
@@ -20,6 +13,13 @@
 - Mapping de projections vidéos avec MadMapper
 - Fabrication de kiosques interactifs avec capteurs et Arduino
 - Intégration de différents protocoles: MIDI, OSC, DMX, RS-232
+
+### Administration système et support informatique
+- Installation et entretien de serveurs Linux, Windows et Mac
+- Gestion de serveurs d'autentifcation avec ActiveDirectory, LDAP
+- Gestion de serveurs web avec Apache, PHP, Python, MySQL, Wordpress
+- Gestion de serveurs de stockage en Samba, NFS, RAID
+- Scripting et automatisation en Bash, Python, SSH
 
 ### Production médiatique
 - Montage audio et vidéo sous Sony Vegas
